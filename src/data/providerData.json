@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Kisan Krishi Kendra",
+    "type": "fertilizer",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "address": "Main Market, Agricultural Block",
+    "phone": "+919876543210",
+    "whatsapp": "919876543210",
+    "products": ["Urea", "DAP", "Pesticides", "Fungicides"]
+  },
+  {
+    "id": "2",
+    "name": "Green Earth Organics",
+    "type": "organic",
+    "lat": 28.7141,
+    "lng": 77.0925,
+    "address": "Near Bus Stand",
+    "phone": "+919988776655",
+    "whatsapp": "919988776655",
+    "products": ["Neem Oil", "Vermicompost", "Bio-fertilizers"]
+  },
+  {
+    "id": "3",
+    "name": "AgroTech Solutions",
+    "type": "pesticide",
+    "lat": 28.6941,
+    "lng": 77.1125,
+    "address": "Industrial Area, Phase 1",
+    "phone": "+918877665544",
+    "whatsapp": "918877665544",
+    "products": ["Insecticides", "Herbicides", "Sprayers"]
+  },
+  {
+    "id": "4",
+    "name": "Annadata Seeds & Fertilizers",
+    "type": "fertilizer",
+    "lat": 28.7200,
+    "lng": 77.1000,
+    "address": "Village Chowk",
+    "phone": "+917766554433",
+    "whatsapp": "917766554433",
+    "products": ["Seeds", "NPK", "Micronutrients"]
+  }
+]

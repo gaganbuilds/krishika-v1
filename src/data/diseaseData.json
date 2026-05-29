@@ -1,0 +1,101 @@
+{
+  "Tomato___Bacterial_spot": {
+    "name": "Bacterial Spot (Tomato)",
+    "description": "A serious bacterial disease causing leaf spots, defoliation, and fruit lesions.",
+    "symptoms": ["Small, water-soaked spots on leaves", "Spots turn dark brown to black", "Fruit lesions are raised, scab-like"],
+    "causes": ["Xanthomonas campestris pv. vesicatoria", "Warm, humid conditions", "Overhead irrigation"],
+    "affectedStage": "All stages, especially fruiting",
+    "pestDetails": "Bacterial spread via splashing water or insects.",
+    "spreadRisk": "High",
+    "severity": "High",
+    "treatment": {
+      "fertilizer": "Maintain balanced nutrition, avoid excessive nitrogen.",
+      "pesticide": "Copper-based bactericides (e.g., Copper Hydroxide).",
+      "organicAlternatives": "Neem oil, Bacillus subtilis sprays.",
+      "applicationMethod": "Foliar spray, covering both sides of leaves.",
+      "usageQuantity": "2g/L of water for copper fungicides.",
+      "timeline": "Apply every 7-10 days upon symptom onset.",
+      "precautions": "Avoid spraying during peak sun. Wear protective gear."
+    },
+    "prevention": [
+      "Use disease-free seeds",
+      "Practice crop rotation",
+      "Avoid overhead watering",
+      "Remove and destroy infected plant debris"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "name": "Early Blight (Tomato)",
+    "description": "A fungal disease causing rapid defoliation and reduced yields.",
+    "symptoms": ["Brown spots with concentric rings (target spots)", "Lower leaves yellow and drop", "Stem cankers"],
+    "causes": ["Alternaria solani", "Warm, humid weather", "Poor air circulation"],
+    "affectedStage": "Vegetative to fruiting",
+    "pestDetails": "Fungal spores spread by wind and water.",
+    "spreadRisk": "High",
+    "severity": "Medium-High",
+    "treatment": {
+      "fertilizer": "Potassium rich fertilizers to strengthen cell walls.",
+      "pesticide": "Chlorothalonil or Mancozeb.",
+      "organicAlternatives": "Copper fungicide, Potassium bicarbonate.",
+      "applicationMethod": "Foliar spray.",
+      "usageQuantity": "2-3g/L of water.",
+      "timeline": "Every 7-14 days.",
+      "precautions": "Do not harvest immediately after spraying."
+    },
+    "prevention": [
+      "Mulching to prevent soil splash",
+      "Adequate spacing for air flow",
+      "Stake or cage plants",
+      "Water at the base of the plant"
+    ]
+  },
+  "Potato___Late_blight": {
+    "name": "Late Blight (Potato)",
+    "description": "The devastating disease that caused the Irish Potato Famine, attacking both leaves and tubers.",
+    "symptoms": ["Water-soaked dark green/black spots on leaves", "White fungal growth on undersides in wet weather", "Tubers develop purplish-brown rot"],
+    "causes": ["Phytophthora infestans (Oomycete)", "Cool, wet, humid conditions"],
+    "affectedStage": "All stages",
+    "pestDetails": "Rapidly spread by windborne spores.",
+    "spreadRisk": "Very High",
+    "severity": "Critical",
+    "treatment": {
+      "fertilizer": "Avoid excess nitrogen.",
+      "pesticide": "Metalaxyl, Mancozeb, or Cymoxanil.",
+      "organicAlternatives": "Copper fungicides (preventative only).",
+      "applicationMethod": "Thorough foliar spray.",
+      "usageQuantity": "Follow manufacturer guidelines (e.g., 2.5g/L).",
+      "timeline": "Every 5-7 days in wet weather.",
+      "precautions": "Requires immediate action; can destroy crop in days."
+    },
+    "prevention": [
+      "Plant resistant varieties",
+      "Destroy volunteer potatoes",
+      "Ensure good soil drainage",
+      "Harvest in dry weather"
+    ]
+  },
+  "healthy": {
+    "name": "Healthy Plant",
+    "description": "Your plant appears to be healthy with no visible signs of major diseases.",
+    "symptoms": ["None"],
+    "causes": ["Good farming practices!"],
+    "affectedStage": "N/A",
+    "pestDetails": "No significant pests detected.",
+    "spreadRisk": "Low",
+    "severity": "Low",
+    "treatment": {
+      "fertilizer": "Continue current balanced fertilization schedule.",
+      "pesticide": "None required.",
+      "organicAlternatives": "Routine neem oil spray for prevention.",
+      "applicationMethod": "N/A",
+      "usageQuantity": "N/A",
+      "timeline": "N/A",
+      "precautions": "Keep monitoring."
+    },
+    "prevention": [
+      "Maintain current watering schedule",
+      "Regularly inspect plants",
+      "Ensure proper sunlight and air circulation"
+    ]
+  }
+}
