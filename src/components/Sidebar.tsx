@@ -22,7 +22,8 @@ import {
   ShieldAlert,
   Users,
   BookOpen,
-  Tractor
+  Tractor,
+  Recycle
 } from 'lucide-react';
 
 interface NavItem {
@@ -45,6 +46,7 @@ const navItems: NavItem[] = [
   { translationKey: 'cropPlanner', nameHindi: 'फसल योजनाकार', path: '/crop-planner', icon: Tractor },
   { translationKey: 'expertsBlogs', nameHindi: 'विशेषज्ञ ब्लॉग', path: '/experts-blogs', icon: BookOpen },
   { translationKey: 'raithaGnyana', nameHindi: 'रैथज्ञान फ़ीड', path: '/raitha-gnyana', icon: Users },
+  { translationKey: 'cropcycleExchange', nameHindi: 'क्रॉपसाइकिल एक्सचेंज', path: '/cropcycle', icon: Recycle },
 ];
 
 export const Sidebar: React.FC = () => {
